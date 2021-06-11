@@ -137,7 +137,7 @@ You can review and change your personal information by logging into the Website 
 
 You may also send us an email at admin@mps.health to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
-If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our terms of use www.pharmr.com/tos
+If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our terms of use https://github.com/Pharmr/legal/blob/main/terms-of-service.md.
 
 California residents may have additional personal information rights and choices. Please see Your California Privacy Rights for more information.
 
