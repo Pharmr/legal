@@ -1,4 +1,4 @@
-# Pharmr.com Terms of Service
+# Terms of Service
 
 Last Modified: August 19, 2020
 
