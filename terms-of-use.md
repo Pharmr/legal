@@ -1,4 +1,4 @@
-# Terms of Service
+# Terms of Use
 
 Last Modified: August 19, 2020
 
