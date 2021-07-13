@@ -33,7 +33,7 @@ You attest to live in the United States and have a primary address in one of the
 
 You agree that the documents you submit are accurate and not fraudulent, forged, or duplicitous in any manner.
 
-You agree to pay a recurring subscription fee of ${protocol fee}/period. The billing period is 30 days from the date of your application approval and is charged upon approval of your application, then each 30 day period thereafter as long as you are actively subscribed. You agree that your credit card will be charged on a recurring basis under the authorization on file for your fee. Please reference the recurring billing authorization here. 
+You agree to pay a recurring subscription fee of ${protocol_fee}/period. The billing period is 30 days from the date of your application approval and is charged upon approval of your application, then each 30 day period thereafter as long as you are actively subscribed. You agree that your credit card will be charged on a recurring basis under the authorization on file for your fee. Please reference the recurring billing authorization here. 
 
 The Practice does not accept medical insurance, Medicare, or payment from any other third party or governmental payor for the services provided under this Agreement.  The Practice will not submit any claims to any insurer, Medicare, or any other payor for any services provided under this Agreement. 
 
