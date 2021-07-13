@@ -1,5 +1,3 @@
-# BESAR! BESAR! BESAR
-
 # Medical Service Agreement
 
 This agreement will serve as a private contract for medical services (the “Agreement”) between {protocol_business_name} (“the Practice”) and you (“you” or “patient”).  
