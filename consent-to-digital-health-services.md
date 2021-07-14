@@ -1,15 +1,15 @@
-# Medical Service Agreement
+## Medical Service Agreement
 
 This Medical Services Agreement (the “Agreement”) for telemedicine services is by and between {protocol_business_name} (“the Practice”) and You (“you” or “patient”). The Practice agrees to provide you with non-emergent medical services under the specific telehealth program called {protocol_name} through the Platform according to the terms described herein.
 
 By clicking “I agree,” you expressly acknowledge that you have read, understood, and
 considered the consequences of this Agreement, that you are at least 18 years of age or older, and that you agree to be bound by the terms of this Agreement, and that you are legally competent to enter into this Agreement with the Practice.
 
-## 1.    Introduction
+### 1.    Introduction
 
 Pharmr enables a new way for you to initiate physician-supported chronic care online. Studies suggest that patients who take an active role in their disease management do better over time. Pharmr enables patients wider leeway in directing their own care vs traditional settings in order to take advantage of this. Consequently, patients may expose themselves to higher levels of risk on the Pharmr platform as a trade off for more control in their medical outcomes. We (i.e. Pharmr) deem self-initiated care a necessary step in this pursuit. Self-initiated care is not without trade offs though. If you are uncomfortable with managing your condition or doing so virtually, or do not feel ready to take a proactive role in the management of your condition, do not agree to the terms contained in this Agreement. Moreover, self-initiated care is not intended to be a replacement for essential medical services but as an adjunctive medical support service. Further, truth in the information you provide and your responses to your provider and the Platform is paramount. Failure to do so could result in harm or death. Please see our Community Guidelines for a complete reference. 
 
-## 2.    Telehealth Program
+### 2.    Telehealth Program
 
 The Practice will provide you with the services defined below. The Practice is not required to provide any Medical Services outside of the services defined in this contract. The Practice maintains the right to change, alter, add or remove any program service at any time. You have the right to cease your participation with and cancel your subscription to these services at any time. Moreover, the Practice will refrain from making substantive changes to the scope of services unless in the case new information arises which nessicates changes to increase patient safety or address harm. 
 
@@ -28,6 +28,7 @@ You have received a prior diagnosis by a licensed U.S. physician having one of t
 You understand that the Practice has the exclusive right to determine your suitability for services and reserves the right to deny your application for any reason, with the exception of discrimation as outlined in the Community Guidelines.
 
 **2.3.    Formulary**
+
 You understand that the following therapeutics are available for request on this service, however availability does not guarantee access. Prescribing decisions will be made by the Practice on an individual basis and all prescribing decisions are final. 
 
 Current formulary: 
@@ -70,13 +71,13 @@ The Practice has sole discretion to determine if you are no longer compatible wi
 
 You acknowledge that there are inherent risks and danger associated with having a chronic condition(s) and taking therapeutics to treat your condition(s), and even when all practices and procedures are followed correctly, there is the possibility of bad outcomes including death.
 
-## 3. Exclusions and Caveats
+### 3. Exclusions and Caveats
 
 This Agreement specifically excludes fees and costs incurred as part of any recommended consultation, diagnostic tests, prescription drugs, technology or platform fees or any service or procedure performed by providers and personnel other than those at the Practice.
 
 Nothing in this Agreement and nothing in our statements to you shall be construed as a promise or guarantee about the outcome of any service rendered. We make no promises or guarantees regarding the outcome of services. Actual fees and costs may vary from estimates given.  
 
-## 4. Binding Arbitration
+### 4. Binding Arbitration
 
 **4.1.    A note on binding arbitration.**
 
@@ -134,6 +135,7 @@ If any portion of this Arbitration Agreement is found to be unenforceable or unl
 **4.10. Right To Opt Out Of The Arbitration Provision**
 
 You may opt out of the Arbitration Provision contained in this Section 14 by notifying the Practice in writing within 30 days of the date you first registered for the Site. To opt out, you must send a written notification to optout@pharmr.app in the following format; “I, a prospective or current patient, hereby opt-out of the arbitration agreement for {protocol_name} to the fullest possible extent. My name is [full name], the email address associated with my account is [email address] and I reside in [primary address]”. All correspondence should use this format and be emailed within 30 days of accepting this Agreement. Opting out of this Arbitration Provision will not affect any other terms of this Agreement nor will it affect any other agreements between you and the Practice or you and Pharmr.
+
 If you do not opt out as provided in this Section 4.10, continuing your relationship with the Practice constitutes mutual acceptance of the terms of this Arbitration Provision by you and the Practice. You have the right to consult with counsel of your choice concerning this Agreement and the Arbitration Provision.
 
 
