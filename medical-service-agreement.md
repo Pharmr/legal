@@ -53,7 +53,7 @@ You agree that the information, medical records, photographs or documents you su
 
 **2.7.    Payments**
 
-You agree to pay a recurring subscription fee of ${protocol_fee} per billing period. The billing period is 30 days from the date of your application approval and is charged upon approval of your application, then each 30 day period thereafter as long as you are actively subscribed. You agree that your credit card will be charged on a recurring basis under the authorization on file for your fee. You will be asked to agree to a recurring billing authorization agreement upon application submission. 
+You agree to pay a recurring subscription fee of {protocol_fee} per billing period. The billing period is 30 days from the date of your application approval and is charged upon approval of your application, then each 30 day period thereafter as long as you are actively subscribed. You agree that your credit card will be charged on a recurring basis under the authorization on file for your fee. You will be asked to agree to a recurring billing authorization agreement upon application submission. 
 
 You understand and agree that you are responsible for all fees due to receive Telemedicine Services, including any fees charged by the Practice and affiliated professional entities. Amounts collected through the Platform by Pharmr will include fees charged by the Practice for Telemedicine Services. In the event that your credit card expires or Pharmr, our affiliates, or our third-party payment processors are unable to process your payment, you may receive notice for you to provide an alternative payment method. Pharmr and/or the Practice have no obligation to provide any Services unless and until full payment has been received and/or verified. 
 
