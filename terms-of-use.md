@@ -117,7 +117,7 @@ With respect to Third Party Providers, Charges you incur will be owed directly t
 
 &emsp;&emsp;&emsp;&emsp; 5.1.1.    **Application fee.** An application fee of $1.00 is assessed upon a user submission request for the initiation of new Services to the Third Party Provider. This fee is retained by Pharmr and is used to offset medical database inquiries to ascertain your background, including prescription drug history. This fee is assessed whether you are accepted onto the Telemedicine Service or not. 
 
-&emsp;&emsp;&emsp;&emsp; 5.1.2.    **Network fee.** A fee of $2.00 is assessed per approved prescription request when initiated through the Pharmr platform. Unapproved drug requests will not incur this fee. The network fee supports Pharmr’s electronic prescribing infrastructure including third party support services & fraud monitoring. 
+&emsp;&emsp;&emsp;&emsp; 5.1.2.    **Network fee.** A fee of $2.00 is assessed per approved prescription request when initiated through Pharmr’s platform. Unapproved drug requests will not incur this fee. The network fee supports Pharmr’s electronic prescribing infrastructure including third party support services & fraud monitoring. 
 
 &emsp;&emsp;&emsp;&emsp; 5.1.3.    **Services Subscription Fee.** As a condition of using Services, the Third Party Provider may require you to pay a recurring monthly subscription fee for Services. This subscription fee is set by the Third Party Provider as described in the Medical Service Agreement. By requesting Services, you authorize and instruct Pharmr to automatically charge the fees for Services on a recurring basis until you cancel your use of Services.  
 
@@ -128,6 +128,7 @@ With respect to Third Party Providers, Charges you incur will be owed directly t
 ### 6. Disclaimers; Limitation of Liability; Indemnity.
 
 **6.1 DISCLAIMER.** THE SERVICES ARE PROVIDED "AS IS" AND "AS AVAILABLE." PHARMR DISCLAIMS ALL REPRESENTATIONS AND WARRANTIES, EXPRESS, IMPLIED, OR STATUTORY, NOT EXPRESSLY SET OUT IN THESE TERMS, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN ADDITION, PHARMR MAKES NO REPRESENTATION, WARRANTY, OR GUARANTEE REGARDING THE RELIABILITY, TIMELINESS, QUALITY, SUITABILITY, OR AVAILABILITY OF THE SERVICES OR ANY SERVICES OR GOODS REQUESTED THROUGH THE USE OF THE SERVICES, OR THAT THE SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE.
+
 PHARMR DOES NOT GUARANTEE THE QUALITY, SUITABILITY, SAFETY OR ABILITY OF THIRD PARTY PROVIDERS. YOU AGREE THAT THE ENTIRE RISK ARISING OUT OF YOUR USE OF THE SERVICES, AND ANY SERVICE OR GOOD REQUESTED IN CONNECTION THEREWITH, REMAINS SOLELY WITH YOU, TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW.
 
 PHARMR DOES NOT CONTROL, MANAGE OR DIRECT ANY THIRD PARTY PROVIDERS INCLUDING PHYSICIANS, PHYSICIAN PRACTICES, AND PHARMACIES. THIRD PARTY PROVIDERS ARE NOT ACTUAL AGENTS, APPARENT AGENTS, OSTENSIBLE AGENTS, OR EMPLOYEES OF PHARMR.
