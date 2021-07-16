@@ -25,8 +25,7 @@ The use and disclosure of Protected Health Information (PHI) in email, text mess
 
 ### 3.     Accepting the Communications Service
 
-**To Opt In to the Communications Service:**
-By checking the box, you agree to Opt In to Pharmr’s Communications Policy. By Opting In, you agree to resolve disputes arising under this Communications Policy pursuant to Pharmr’s [Terms of Use](https://github.com/Pharmr/legal/blob/main/terms-of-use.md), including the terms pertaining to binding arbitration and to class actions. Notwithstanding the foregoing, the Communications Policy does not supersede or otherwise impact the enforceability of any agreements you may have with Pharmr or its subsidiaries.
+**3.1.    To Opt In to the Communications Service.** By checking the box, you agree to Opt In to Pharmr’s Communications Policy. By Opting In, you agree to resolve disputes arising under this Communications Policy pursuant to Pharmr’s [Terms of Use](https://github.com/Pharmr/legal/blob/main/terms-of-use.md), including the terms pertaining to binding arbitration and to class actions. Notwithstanding the foregoing, the Communications Policy does not supersede or otherwise impact the enforceability of any agreements you may have with Pharmr or its subsidiaries.
 
 You authorize Pharmr to use autodialer or non-autodialer technology to send text messages to the cell phone number associated with your account. You also authorize Pharmr to include informational and marketing content in any such messages. You do not have to Opt In, though not doing so will affect your ability to use the platform (Section 4).
 
@@ -40,16 +39,15 @@ The Communications Service may send multiple, recurring messages. Pharmr may ter
 
 ### 4.     Declining the Communications Service
 
-**To Opt Out of the Communications Service:**
-By not checking the box, you Opt Out of the Communications Service. By Opting Out, you agree not to use the Pharmr platform or associated Telemedicine Services in its entirety. 
+**4.1.    To Opt Out of the Communications Service.** By not checking the box, you Opt Out of the Communications Service. By Opting Out, you agree not to use the Pharmr platform or associated Telemedicine Services in its entirety. 
 
-**Opting Out for those currently enrolled with the Communications Service:**
-To opt out of your participation in the Pharmr Communications Service and stop all messages and notifications, contact customer support at support@pharmr.app for account deactivation. 
+**4.2.    Opting Out for those currently enrolled with the Communications Service.** To opt out of your participation in the Pharmr Communications Service and stop all messages and notifications, contact customer support at support@pharmr.app for account deactivation. 
 
-**For SMS text messaging users only:**
-To stop your SMS notifications, you may reply “_STOP_” (or “_QUIT_”, “_END_”, “_CANCEL_”, “_UNSUBSCRIBE_”, or “_STOP ALL_”) to any text message they receive from us. This will cancel future notifications to the subscribers number (note: does not apply to iMessage users). ***If you stop SMS notifications, you will not receive any notifications or communications from Telemedicine Service Providers or Pharmr platform and may negatively impact your experience of the Platform and any Telemedicine Services. We are not responsible for any negative impacts or results of you choosing to opt out of our Communications Service.***
+**4.3.    For SMS text messaging users only.** 
 
-To restart the service, you may reply “_START_”, or “_YES_” to receive future SMS messages.
+&emsp;&emsp;&emsp;&emsp;4.3.1.    To stop your SMS notifications, you may reply “_STOP_” (or “_QUIT_”, “_END_”, “_CANCEL_”, “_UNSUBSCRIBE_”, or “_STOP ALL_”) to any text message they receive from us. This will cancel future notifications to the subscribers number (note: does not apply to iMessage users). ***If you stop SMS notifications, you will not receive any notifications or communications from Telemedicine Service Providers or Pharmr platform and may negatively impact your experience of the Platform and any Telemedicine Services. We are not responsible for any negative impacts or results of you choosing to opt out of our Communications Service.***
+
+&emsp;&emsp;&emsp;&emsp;4.3.2.    To restart the service, you may reply “_START_”, or “_YES_” to receive future SMS messages.
 
 ### 5.    Mobile Carriers, Phone Models, & Text Message Delivery
 
