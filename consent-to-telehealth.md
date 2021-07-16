@@ -1,6 +1,7 @@
-# Informed Consent for Telehealth Services
+## Informed Consent for Telehealth Services
+Updated as of July 16,  2021
 
-Meters Per Second Inc. DBA Pharmr is a platform which connects physicians to patients for certain medical services through telehealth technologies.  Telehealth is a mode of delivering health care services via information and communication technologies to facilitate the diagnosis, consultation, treatment, education, care management, and self-management of health care, while patients and their health care providers are in different sites.  Telehealth involves the use of technology to enable remote communications between and among health care providers and patients.  
+Meters Per Second Inc. dba Pharmr is a platform which connects physicians to patients for certain medical services through telehealth technologies.  Telehealth is a mode of delivering health care services via information and communication technologies to facilitate the diagnosis, consultation, treatment, education, care management, and self-management of health care, while patients and their health care providers are in different sites.  Telehealth involves the use of technology to enable remote communications between and among health care providers and patients.  
 
 While telehealth may improve access to care and lead to more efficient diagnosis, treatment, and care management, there are potential risks associated with telehealth, as there are with any medical treatment or procedure.  The potential risks associated with telehealth include, but are not limited to, insufficient transmission of information that does not allow for appropriate decision-making and diagnosis by the health care provider; delays in diagnosis, consultation, and/or communication due to deficiencies or failures of equipment or systems; failure of security protocols, resulting in a breach of privacy of personal health information; or adverse results or reactions due to lack of access to complete medical records.
 
@@ -20,4 +21,4 @@ I understand that nothing within this consent precludes me from seeking or recei
 
 I have read and understand the information provided above regarding telehealth, including the potential risks. I have had the opportunity to discuss the use of telehealth with a healthcare provider and to ask questions regarding the use of telehealth, and all of my questions have been answered to my satisfaction.
 
-By checking the box, I hereby provide my consent to engage in telehealth with healthcare providers on the Meters Per Second Inc. DBA Pharmr platform and authorize the assigned health care provider to use telehealth in the course of my diagnosis and treatment.
+By checking the box, I hereby provide my consent to engage in telehealth with healthcare providers on the Meters Per Second Inc. dba Pharmr platform and authorize the assigned health care provider to use telehealth in the course of my diagnosis and treatment.
