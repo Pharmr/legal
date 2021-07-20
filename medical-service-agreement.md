@@ -19,7 +19,7 @@ As a condition of utilizing the medical services of {protocol_name}, you attest 
 
 {protocol_description}
 
-You have received a prior diagnosis by a licensed U.S. physician having one of the following conditions: {protocol_supported_conditons}. Or, if included in the services listed above, you agree to be assessed by the Practice to determine your suitability for the service. Although the Practice will assist you in your continuing medical care or treatment, you acknowledge that you are ultimately responsible for your care and the Practice is an a consultant to your care.
+You have received a prior diagnosis by a licensed U.S. physician having one of the following conditions: {protocol_supported_conditons}. Or, if included in the services listed above, you agree to be assessed by the Practice to determine your suitability for the service. Although the Practice will assist you in your continuing medical care or treatment, you acknowledge that you are ultimately responsible for your care and the Practice is a consultant to your care.
 
 **2.2.    Medical eligibility**
 
