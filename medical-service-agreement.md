@@ -1,4 +1,5 @@
 ## Medical Service Agreement
+Updated as of April 26, 2023
 
 This Medical Services Agreement (the “Agreement”) for telemedicine services is by and between {protocol_business_name} (“the Practice”) and You (“you” or “patient”). The Practice agrees to provide you with non-emergent medical services under the specific telehealth program called {protocol_name} through the Platform according to the terms described herein.
 
@@ -7,7 +8,7 @@ considered the consequences of this Agreement, that you are at least 18 years of
 
 ### 1.    Introduction
 
-Pharmr enables a new way for you to initiate physician-supported chronic care online. Studies suggest that patients who take an active role in their disease management do better over time. Pharmr enables patients wider leeway in directing their own care vs traditional settings in order to take advantage of this. Consequently, patients may expose themselves to higher levels of risk on the Pharmr platform as a trade off for more control in their medical outcomes. We (i.e. Pharmr) deem self-initiated care a necessary step in this pursuit. Self-initiated care is not without trade offs though. If you are uncomfortable with managing your condition or doing so virtually, or do not feel ready to take a proactive role in the management of your condition, do not agree to the terms contained in this Agreement. Moreover, self-initiated care is not intended to be a replacement for essential medical services but as an adjunctive medical support service. Further, truth in the information you provide and your responses to your provider and the Platform is paramount. Failure to do so could result in harm or death. Please see our Community Guidelines for a complete reference. 
+Clinic enables a new way for you to initiate physician-supported chronic care online. Studies suggest that patients who take an active role in their disease management do better over time. Clinic enables patients wider leeway in directing their own care vs traditional settings in order to take advantage of this. Consequently, patients may expose themselves to higher levels of risk on the Clinic platform as a trade off for more control in their medical outcomes. We (i.e. Clinic) deem self-initiated care a necessary step in this pursuit. Self-initiated care is not without trade offs though. If you are uncomfortable with managing your condition or doing so virtually, or do not feel ready to take a proactive role in the management of your condition, do not agree to the terms contained in this Agreement. Moreover, self-initiated care is not intended to be a replacement for essential medical services but as an adjunctive medical support service. Further, truth in the information you provide and your responses to your provider and the Platform is paramount. Failure to do so could result in harm or death. Please see our Community Guidelines for a complete reference. 
 
 ### 2.    Telehealth Program
 
@@ -34,7 +35,7 @@ You understand that the following therapeutics are available for request on this
 Current formulary: 
 {protocol_formulary}
 
-The formulary offered by this service is subject to change without notice from time to time. Some therapeutics may require prior authorization if you decide to use prescription insurance to obtain them. Prior authorization is currently not supported on the Pharmr platform. If the Practice decides to issue a prior authorization, the Practice makes no guarantees of approval and may abandon the submission at any time without notice.
+The formulary offered by this service is subject to change without notice from time to time. Some therapeutics may require prior authorization if you decide to use prescription insurance to obtain them. Prior authorization is currently not supported on the Clinic platform. If the Practice decides to issue a prior authorization, the Practice makes no guarantees of approval and may abandon the submission at any time without notice.
 
 **2.4.    Risks & Alternatives**
 
@@ -55,7 +56,7 @@ You agree that the information, medical records, photographs or documents you su
 
 You agree to pay a recurring subscription fee of {protocol_fee} per billing period. The billing period is 30 days from the date of your application approval and is charged upon approval of your application, then each 30 day period thereafter as long as you are actively subscribed. You agree that your credit card will be charged on a recurring basis under the authorization on file for your fee. You will be asked to agree to a recurring billing authorization agreement upon application submission. 
 
-You understand and agree that you are responsible for all fees due to receive Telemedicine Services, including any fees charged by the Practice and affiliated professional entities. Amounts collected through the Platform by Pharmr will include fees charged by the Practice for Telemedicine Services. In the event that your credit card expires or Pharmr, our affiliates, or our third-party payment processors are unable to process your payment, you may receive notice for you to provide an alternative payment method. Pharmr and/or the Practice have no obligation to provide any Services unless and until full payment has been received and/or verified. 
+You understand and agree that you are responsible for all fees due to receive Telemedicine Services, including any fees charged by the Practice and affiliated professional entities. Amounts collected through the Platform by Clinic will include fees charged by the Practice for Telemedicine Services. In the event that your credit card expires or Clinic, our affiliates, or our third-party payment processors are unable to process your payment, you may receive notice for you to provide an alternative payment method. Clinic and/or the Practice have no obligation to provide any Services unless and until full payment has been received and/or verified. 
 
 The Practice reserves the right to periodically increase the subscription fee and will provide you with written notice of those increases.  If you refuse to pay our fees after a rate increase, we will have the right to terminate this Agreement.
 
@@ -65,7 +66,7 @@ The Practice does not accept medical insurance, Medicare, or payment from any ot
 
 **2.9.    Termination**
 
-The Practice has sole discretion to determine if you are no longer compatible with this Practice’s eligibility requirements or you have violated Pharmr's community guidelines, your subscription may be terminated without notice. 
+The Practice has sole discretion to determine if you are no longer compatible with this Practice’s eligibility requirements or you have violated Clinic's community guidelines, your subscription may be terminated without notice. 
 
 **2.10.    Inherent Risk**
 
@@ -81,7 +82,7 @@ Nothing in this Agreement and nothing in our statements to you shall be construe
 
 **4.1.    A note on binding arbitration.**
 
-Pharmr enables patients to self-direct their care in association with a medical practice. In order to facilitate higher levels of risk associated with this mode of care, Practices on Pharmr require you to agree to binding arbitration for dispute resolution.
+Clinic enables patients to self-direct their care in association with a medical practice. In order to facilitate higher levels of risk associated with this mode of care, Practices on Clinic require you to agree to binding arbitration for dispute resolution.
  
 **4.2.    Introduction.**
 
@@ -137,6 +138,6 @@ If any portion of this Arbitration Agreement is found to be unenforceable or unl
 
 **4.10. Right To Opt Out Of The Arbitration Provision**
 
-You may opt out of the Arbitration Provision contained in this Section 14 by notifying the Practice in writing within 30 days of the date you first registered for the Site. To opt out, you must send a written notification to optout@pharmr.app in the following format; “I, a prospective or current patient, hereby opt-out of the arbitration agreement for {protocol_name} to the fullest possible extent. My name is [full name], the email address associated with my account is [email address] and I reside in [primary address]”. All correspondence should use this format and be emailed within 30 days of accepting this Agreement. Opting out of this Arbitration Provision will not affect any other terms of this Agreement nor will it affect any other agreements between you and the Practice or you and Pharmr.
+You may opt out of the Arbitration Provision contained in this Section 14 by notifying the Practice in writing within 30 days of the date you first registered for the Site. To opt out, you must send a written notification to admin@mps.health in the following format; “I, a prospective or current patient, hereby opt-out of the arbitration agreement for {protocol_name} to the fullest possible extent. My name is [full name], the email address associated with my account is [email address] and I reside in [primary address]”. All correspondence should use this format and be emailed within 30 days of accepting this Agreement. Opting out of this Arbitration Provision will not affect any other terms of this Agreement nor will it affect any other agreements between you and the Practice or you and Clinic.
 
 If you do not opt out as provided in this Section 4.10, continuing your relationship with the Practice constitutes mutual acceptance of the terms of this Arbitration Provision by you and the Practice. You have the right to consult with counsel of your choice concerning this Agreement and the Arbitration Provision.
