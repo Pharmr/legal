@@ -1,4 +1,5 @@
 ## Medical Service Agreement
+Updated as of April 26, 2023
 
 This Medical Services Agreement (the “Agreement”) for telemedicine services is by and between {protocol_business_name} (“the Practice”) and You (“you” or “patient”). The Practice agrees to provide you with non-emergent medical services under the specific telehealth program called {protocol_name} through the Platform according to the terms described herein.
 
