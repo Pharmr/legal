@@ -1,19 +1,19 @@
-## Pharmr Community Guidelines
+## Clinic Community Guidelines
 
 Updated as of August 27, 2021
 
-Pharmr provides a platform where patients can connect with other patients with similar health issues. Pharmr’s Community Guidelines are intended to further that goal by providing general guidance and explaining what is and isn’t allowed on Pharmr. 
+Clinic provides a platform where patients can connect with other patients with similar health issues. Clinic’s Community Guidelines are intended to further that goal by providing general guidance and explaining what is and isn’t allowed on Clinic. 
 The guidelines are not intended to comprehensively identify every type of inappropriate or unlawful conduct or content. Users should be guided by common sense and an expectation that they should treat their fellow users with respect.
 
-These Community Guidelines apply to your access to and use of the Pharmr website and any services offered on Pharmr (collectively, the “_Platform_”). Pharmr reserves the right to revise these Community Guidelines at any time for any reason. These Community Guidelines are in addition to the Pharmr [Terms of Service](https://github.com/Pharmr/legal/blob/main/terms-of-use.md), which also apply to your access to and use of the Platform.
+These Community Guidelines apply to your access to and use of the Clinic website and any services offered on Clinic (collectively, the “_Platform_”). Clinic reserves the right to revise these Community Guidelines at any time for any reason. These Community Guidelines are in addition to the Clinic [Terms of Service](https://github.com/Pharmr/legal/blob/main/terms-of-use.md), which also apply to your access to and use of the Platform.
 
-Pharmr reserves the right to ban (temporarily or permanently) or take other appropriate action with or without notice with respect to any user that engages in conduct that Pharmr determines, in its sole discretion, to be inappropriate or harmful, whether or not such conduct is identified below.
+Clinic reserves the right to ban (temporarily or permanently) or take other appropriate action with or without notice with respect to any user that engages in conduct that Clinic determines, in its sole discretion, to be inappropriate or harmful, whether or not such conduct is identified below.
 
-If you encounter conduct or content on the Platform that you believe violate any of the guidelines below or if you have other safety concerns about the Platform, please contact Pharmr at safety@pharmr.app and include “Pharmr-Safety” in the subject line. While Pharmr is not responsible to you as a user for enforcing these Community Guidelines, reports of violations are helpful to Pharmr.
+If you encounter conduct or content on the Platform that you believe violate any of the guidelines below or if you have other safety concerns about the Platform, please contact Clinic at admin@mps.health and include “Clinic-Safety” in the subject line. While Clinic is not responsible to you as a user for enforcing these Community Guidelines, reports of violations are helpful to Clinic.
 
 Guidelines include but are not limited to:
 
-- **Violations of the Law**. You must comply with all applicable local, national and international laws while using the Platform. Any content, activity or conduct featuring, encouraging, offering, or soliciting illegal activity or content is prohibited. Pharmr reserves the right to report any such violations to law enforcement.
+- **Violations of the Law**. You must comply with all applicable local, national and international laws while using the Platform. Any content, activity or conduct featuring, encouraging, offering, or soliciting illegal activity or content is prohibited. Clinic reserves the right to report any such violations to law enforcement.
 
 - **Medical Advice**. Providing medical advice or treatment without a professional license is prohibited.
 
