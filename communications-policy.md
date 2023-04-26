@@ -1,5 +1,5 @@
 ## Communications Policy
-Updated as of July 16,  2021
+Updated as of April 26,  2023
 
 This Communications Policy ("_Communications Policy_") is by and between you (“_You_”, “_Your_”, “_User_”) and Meters Per Second Inc dba Clinic, and its affiliates, including any authorized third-party services (collectively, "_Clinic_", "_we_", "_our_", or "_us_"). We provide this Communications Policy, which governs the provision and delivery of text messages, email notifications, phone calls, and video calls by us and our communications service providers to you. 
 
