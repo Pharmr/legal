@@ -1,9 +1,9 @@
 ## Privacy Policy
-Updated as of July 19, 2021
+Updated as of April 26, 2023
 
-Meters Per Second Inc. dba Pharmr ("Company", "We", or “Us”) respects your privacy and is committed to protecting it through our compliance with this policy.
+Meters Per Second Inc. dba Clinic ("Company", "We", or “Us”) respects your privacy and is committed to protecting it through our compliance with this policy.
 
-This policy describes the types of information we may collect from you or that you may provide when you visit the website www.pharmr.app (our "Website") and access third-party services including Telemedicine Services on our site for collecting, using, maintaining, protecting, and disclosing that information.
+This policy describes the types of information we may collect from you or that you may provide when you visit the website www.clinic.dev (our "Website") and access third-party services including Telemedicine Services on our site for collecting, using, maintaining, protecting, and disclosing that information.
 
 ### 1.    Applicable Information
 
@@ -20,7 +20,7 @@ Please read this policy carefully to understand our policies and practices regar
 
 ### 2.    Children Under the Age of 18
 
-Our Website is not intended for children under 18 years of age. No one under age 18 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 18. If you are under 18, do not use or provide any information on this Website or through any of its features, register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website, or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 18 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 18, please contact us at support@pharmr.app.
+Our Website is not intended for children under 18 years of age. No one under age 18 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 18. If you are under 18, do not use or provide any information on this Website or through any of its features, register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website, or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 18 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 18, please contact us at admin@mps.health.
 
 California residents under 16 years of age may have additional rights regarding the collection and sale of their personal information. Please see Your California Privacy Rights for more information.
 
@@ -39,15 +39,15 @@ California residents under 16 years of age may have additional rights regarding 
   
 The information we collect on or through our Website may include:
 
-**User profile.** We collect data when users create or update their Pharmr accounts. This may include their name, email, phone number, login name and password, address, profile picture, payment or banking information (including related payment verification information), driver’s license and other government identification documents (which may indicate document numbers as well as birth date, gender, and photo). 
+**User profile.** We collect data when users create or update their Clinic accounts. This may include their name, email, phone number, login name and password, address, profile picture, payment or banking information (including related payment verification information), driver’s license and other government identification documents (which may indicate document numbers as well as birth date, gender, and photo). 
 
 We may use the photos submitted by users to verify their identities, such as through facial verification technologies or a manual review process. For more information, please see the section titled “How we use personal data.”
 
-**Medical background check and identity verification.** This may include protected health information such as a prescription medical history lookup (if applicable), as well as a review of the user's state issued photo ID. This information may be collected by an authorized vendor on Pharmr’s behalf. 
+**Medical background check and identity verification.** This may include protected health information such as a prescription medical history lookup (if applicable), as well as a review of the user's state issued photo ID. This information may be collected by an authorized vendor on Clinic’s behalf. 
 
 **Demographic data.** We may collect demographic data about users, including through user surveys. In some cases, we may also receive demographic data about users from third parties.
 
-**User content.** We collect the data submitted by users when they contact Pharmr customer support, provide ratings or compliments for other users or Telemedicine Service Providers or otherwise contact Pharmr. This also includes metadata relating to the method you use to communicate with Pharmr.
+**User content.** We collect the data submitted by users when they contact Clinic customer support, provide ratings or compliments for other users or Telemedicine Service Providers or otherwise contact Clinic. This also includes metadata relating to the method you use to communicate with Clinic.
 
 **Transaction information.** We collect transaction information related to the use of our services, services rendered by Telemedicine Service Providers, services rendered by Pharmacies, and other third party service providers,  including the type of services requested or provided, prescription details, prescription transaction information, order details, payment transaction information, date and time the service was provided, amount charged, and payment method. Additionally, if someone uses your promotion code, we may associate your name with that person.
 
@@ -57,7 +57,7 @@ In some cases, we collect this data through cookies, pixels, tags, and similar t
 
 **Device data.** We may collect data about the devices used to access our services, including the hardware models, device IP address or other unique device identifiers, operating systems and versions, software, preferred languages, advertising identifiers, device motion data, and mobile network data.
 
-**Communications data.** We enable users to communicate with each other and Pharmr through Pharmr’s websites or third party platforms. To provide this service, Pharmr may receive some data regarding the calls, texts, or other communications, including the date and time of the communications and the content of the communications. Pharmr may also use this data for customer support services (including to resolve disputes between users), for safety and security purposes, to improve our services and features, and for analytics.
+**Communications data.** We enable users to communicate with each other and Clinic through Clinic’s websites or third party platforms. To provide this service, Clinic may receive some data regarding the calls, texts, or other communications, including the date and time of the communications and the content of the communications. Clinic may also use this data for customer support services (including to resolve disputes between users), for safety and security purposes, to improve our services and features, and for analytics.
 
 **Protected Health Information.** To engage with Telemedicine Services, we may ask users to provide self reported demographics (birth date, biological birth gender, height, weight), medical background information (diagnosed medical conditions, active prescriptions, current allergies to drugs or drug ingredients), prescription medical history lookup (rendered by other third party service providers) and any other data a doctor might reasonably request of a patient to construct a complete patient history and render safe medical services via the internet. This may include file attachments or uploads consisting medical records, photographs, recordings, videos, insurance claims, medical imaging, and lab results. Additionally, PHI may be transmitted video real time or asynchronous types of communications, including text message, video call, phone call, or other means of electronic notification. 
 
@@ -68,9 +68,9 @@ In some cases, we collect this data through cookies, pixels, tags, and similar t
 - Users or others providing information in connection with claims or disputes.
 - Vendors who help us verify users’ identity, background information, and eligibility to work, or who screen users in connection with sanctions, anti-money laundering, or know-your-customer requirements
 - Publicly available sources
-- Marketing service providers or data resellers whose data Pharmr uses for marketing or research
+- Marketing service providers or data resellers whose data Clinic uses for marketing or research
 - Law enforcement officials, public health officials, and other government authorities
-- Pharmr may combine the data collected from these sources with other data in its possession.
+- Clinic may combine the data collected from these sources with other data in its possession.
 
 ### 5.    Information We Collect Through Automatic Data Collection Technologies  
 
@@ -143,8 +143,8 @@ We may also disclose your personal information and protected health information:
 
 We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information: 
 - **Tracking Technologies and Advertising.** You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
-- **Disclosure of Your Information for Third-Party Advertising.** If you do not want us to share your personal information with unaffiliated or non-agent third parties for promotional purposes, you can opt-out by emailing us at optout@pharmr.app. 
-- **Targeted Advertising.** If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers' target-audience preferences, you can opt-out by emailing us at optout@pharmr.app. 
+- **Disclosure of Your Information for Third-Party Advertising.** If you do not want us to share your personal information with unaffiliated or non-agent third parties for promotional purposes, you can opt-out by emailing us at admin@mps.health. 
+- **Targeted Advertising.** If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers' target-audience preferences, you can opt-out by emailing us at admin@mps.health. 
 - **Right and choices for certain health information.**  You have both the right and choice to tell us to: share information with your family, close friends, or others involved in your care, share information in a disaster relief situation, share your information with health providers outside of our network.
 - **Third parties' collection.** We do not control third parties' collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative ("NAI") on the NAI's website.
 
@@ -156,7 +156,7 @@ Nevada residents who wish to exercise their sale opt-out rights under Nevada Rev
 
 You can review and change your personal information by logging into the Website and visiting your account profile page.
 
-You may also send us an email at support@pharmr.app to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+You may also send us an email at admin@mps.health to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
 If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our [Terms of Use](https://github.com/Pharmr/legal/blob/main/terms-of-use.md).
 
@@ -166,7 +166,7 @@ California residents may have additional personal information rights and choices
 
 If you are a California resident, California law may provide you with additional rights regarding our use of your personal information. To learn more about your California privacy rights, visit https://oag.ca.gov/privacy/ccpa
 
-California's "Shine the Light" law (Civil Code Section § 1798.83) permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to optout@pharmr.app
+California's "Shine the Light" law (Civil Code Section § 1798.83) permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to admin@mps.health.
 
 ### 12.    Data Security
 
@@ -184,7 +184,7 @@ It is our policy to post any changes we make to our privacy policy on this page 
 
 ### 14.    Contact Information
 
-To ask questions or comment or register a complaint about this privacy policy and our privacy practices, contact us at support@pharmr.app
+To ask questions or comment or register a complaint about this privacy policy and our privacy practices, contact us at admin@mps.health.
  
 
 
