@@ -1,6 +1,6 @@
 ## Clinic Community Guidelines
 
-Updated as of August 27, 2021
+Updated as of April 26, 2023
 
 Clinic provides a platform where patients can connect with other patients with similar health issues. Clinic’s Community Guidelines are intended to further that goal by providing general guidance and explaining what is and isn’t allowed on Clinic. 
 The guidelines are not intended to comprehensively identify every type of inappropriate or unlawful conduct or content. Users should be guided by common sense and an expectation that they should treat their fellow users with respect.
