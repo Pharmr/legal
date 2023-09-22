@@ -9,7 +9,7 @@ These Community Guidelines apply to your access to and use of the Clinic website
 
 Clinic reserves the right to ban (temporarily or permanently) or take other appropriate action with or without notice with respect to any user that engages in conduct that Clinic determines, in its sole discretion, to be inappropriate or harmful, whether or not such conduct is identified below.
 
-If you encounter conduct or content on the Platform that you believe violate any of the guidelines below or if you have other safety concerns about the Platform, please contact Clinic at admin@mps.health and include “Clinic-Safety” in the subject line. While Clinic is not responsible to you as a user for enforcing these Community Guidelines, reports of violations are helpful to Clinic.
+If you encounter conduct or content on the Platform that you believe violate any of the guidelines below or if you have other safety concerns about the Platform, please contact Clinic at support@clinic.dev and include “Clinic-Safety” in the subject line. While Clinic is not responsible to you as a user for enforcing these Community Guidelines, reports of violations are helpful to Clinic.
 
 Guidelines include but are not limited to:
 
