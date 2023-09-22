@@ -20,7 +20,7 @@ Please read this policy carefully to understand our policies and practices regar
 
 ### 2.    Children Under the Age of 18
 
-Our Website is not intended for children under 18 years of age. No one under age 18 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 18. If you are under 18, do not use or provide any information on this Website or through any of its features, register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website, or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 18 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 18, please contact us at admin@mps.health.
+Our Website is not intended for children under 18 years of age. No one under age 18 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 18. If you are under 18, do not use or provide any information on this Website or through any of its features, register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website, or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 18 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 18, please contact us at support@clinic.dev.
 
 California residents under 16 years of age may have additional rights regarding the collection and sale of their personal information. Please see Your California Privacy Rights for more information.
 
@@ -136,15 +136,15 @@ We may also disclose your personal information and protected health information:
 - To share health information with a coroner, medical examiner, or funeral director when an individual dies.
 - To share health information about you in response to a court or administrative order, or in response to a subpoena.
 - To help with public health and safety issues such as: preventing disease, helping with product recalls, reporting adverse reactions to medications, preventing or reducing a serious threat to anyone’s health or safety
-- To enforce or apply our [Terms of Use](https://github.com/Pharmr/legal/blob/main/terms-of-use.md) and other agreements, including for billing and collection purposes.
+- To enforce or apply our [Terms of Use](https://github.com/Pharmr/legal/blob/main/terms-of-use.md), [Platform Access Agreement](https://github.com/Pharmr/legal/blob/main/platform-access-agreement.md), and other agreements, including for billing and collection purposes.
 - If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Meters Per Second Inc., our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
 ### 9.    Choices About How We Use and Disclose Your Information
 
 We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information: 
 - **Tracking Technologies and Advertising.** You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
-- **Disclosure of Your Information for Third-Party Advertising.** If you do not want us to share your personal information with unaffiliated or non-agent third parties for promotional purposes, you can opt-out by emailing us at admin@mps.health. 
-- **Targeted Advertising.** If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers' target-audience preferences, you can opt-out by emailing us at admin@mps.health. 
+- **Disclosure of Your Information for Third-Party Advertising.** If you do not want us to share your personal information with unaffiliated or non-agent third parties for promotional purposes, you can opt-out by emailing us at support@clinic.dev. 
+- **Targeted Advertising.** If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers' target-audience preferences, you can opt-out by emailing us at support@clinic.dev. 
 - **Right and choices for certain health information.**  You have both the right and choice to tell us to: share information with your family, close friends, or others involved in your care, share information in a disaster relief situation, share your information with health providers outside of our network.
 - **Third parties' collection.** We do not control third parties' collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative ("NAI") on the NAI's website.
 
@@ -156,9 +156,9 @@ Nevada residents who wish to exercise their sale opt-out rights under Nevada Rev
 
 You can review and change your personal information by logging into the Website and visiting your account profile page.
 
-You may also send us an email at admin@mps.health to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+You may also send us an email at support@clinic.dev to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
-If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our [Terms of Use](https://github.com/Pharmr/legal/blob/main/terms-of-use.md).
+If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our [Terms of Use](https://github.com/Pharmr/legal/blob/main/terms-of-use.md) and [Platform Access Agreement](https://github.com/Pharmr/legal/blob/main/platform-access-agreement.md).
 
 California residents may have additional personal information rights and choices. Please see Your California Privacy Rights for more information.
 
@@ -166,7 +166,7 @@ California residents may have additional personal information rights and choices
 
 If you are a California resident, California law may provide you with additional rights regarding our use of your personal information. To learn more about your California privacy rights, visit https://oag.ca.gov/privacy/ccpa
 
-California's "Shine the Light" law (Civil Code Section § 1798.83) permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to admin@mps.health.
+California's "Shine the Light" law (Civil Code Section § 1798.83) permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to support@clinic.dev.
 
 ### 12.    Data Security
 
@@ -184,7 +184,7 @@ It is our policy to post any changes we make to our privacy policy on this page 
 
 ### 14.    Contact Information
 
-To ask questions or comment or register a complaint about this privacy policy and our privacy practices, contact us at admin@mps.health.
+To ask questions or comment or register a complaint about this privacy policy and our privacy practices, contact us at support@clinic.dev.
  
 
 
