@@ -41,7 +41,7 @@ The Communications Service may send multiple, recurring messages. Clinic may ter
 
 **4.1.    To Opt Out of the Communications Service.** By not checking the box, you Opt Out of the Communications Service. By Opting Out, you agree not to use the Clinic platform or associated Telemedicine Services in its entirety. 
 
-**4.2.    Opting Out for those currently enrolled with the Communications Service.** To opt out of your participation in the Clinic Communications Service and stop all messages and notifications, contact customer support at admin@mps.health for account deactivation. 
+**4.2.    Opting Out for those currently enrolled with the Communications Service.** To opt out of your participation in the Clinic Communications Service and stop all messages and notifications, contact customer support at support@clinic.dev for account deactivation. 
 
 **4.3.    For SMS text messaging users only.** To stop your SMS notifications, you may reply “_STOP_” (or “_QUIT_”, “_END_”, “_CANCEL_”, “_UNSUBSCRIBE_”, or “_STOP ALL_”) to any text message they receive from us. This will cancel future notifications to the subscribers number (note: does not apply to iMessage users). ***If you stop SMS notifications, you will not receive any notifications or communications from Telemedicine Service Providers or Clinic platform and may negatively impact your experience of the Platform and any Telemedicine Services. We are not responsible for any negative impacts or results of you choosing to opt out of our Communications Service.***
 
